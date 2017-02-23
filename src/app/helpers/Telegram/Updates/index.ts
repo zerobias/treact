@@ -1,4 +1,5 @@
-import { api } from 'helpers/pool';
+/*
+import { api } from 'helpers/Telegram/pool';
 import { HttpLoopEmitter } from './HttpLoopEmitter';
 
 // const UPDATE_INTERVAL = 1000;
@@ -135,3 +136,4 @@ class Updates {
 }
 
 export { Updates }
+*/
